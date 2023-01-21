@@ -8,4 +8,5 @@
 
 ## Software - MicroPython
 1. [MicroPython - Basics](./docs/2-micropython/basics.md)
-2. [MicroPython - PINs](./docs/2-micropython/pins.md)
+2. [MicroPython - PINs](./docs/2-micropython/pin.md)
+3. [MicroPython - PWM](./docs/2-micropython/pwm.md)
