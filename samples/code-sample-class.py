@@ -10,9 +10,9 @@ class Engine:
         speed.freq(1000)
         speed.duty_u16(int(65535 * 0.5))
 
-    def forward(self):
-        self.backward.off()
+    def move_forward(self):
         self.forward.on()
+        self.backward.off()
 
 
 led = Pin(25)
