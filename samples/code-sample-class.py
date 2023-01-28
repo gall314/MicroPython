@@ -3,7 +3,7 @@ import utime
 
 
 class Engine:
-    def __int__(self, forward, backward, speed):
+    def __init__(self, forward, backward, speed):
         self.forward = forward
         self.backward = backward
         self.speed = speed
