@@ -1,5 +1,10 @@
 # MicroPython
 
+Short URL to this repo:
+[shorturl.at/rtwX9](https://shorturl.at/rtwX9)
+
+[U2 Boot File](https://github.com/gall314/MicroPython)
+
 ## Hardware
 
 1. [Raspberry Pi Pico](./docs/1-hardware/raspberry-pi-pico.md)
